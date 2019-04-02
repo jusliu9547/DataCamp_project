@@ -21,6 +21,7 @@
 * Who Is Drunk and When in Ames, Iowa?
 * Wrangling and Visualizing Musical Data
 * Data Science for Social Good/ Crime Study 
+* Where Are the Fishes?
  
 ## Cheatsheet
 
