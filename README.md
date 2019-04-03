@@ -1,7 +1,8 @@
 # DataCamp #
--------
 
 Update the project from **DataCamp** everyday!
+
+Also record the learning process on **DataCamp**
 
 ## R project #
 
@@ -32,6 +33,7 @@ Update the project from **DataCamp** everyday!
 * Data Transformation with dplyr
 * Data Visualization with ggplot2
 * String Manipulation with stringr
+* [Natural Language Process with spaCy](https://www.datacamp.com/community/blog/spacy-cheatsheet)
 
 ## Used package
 
