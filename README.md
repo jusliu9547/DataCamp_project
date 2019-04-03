@@ -25,9 +25,18 @@ Update the project from **DataCamp** everyday!
 * Wrangling and Visualizing Musical Data
 * Data Science for Social Good/ Crime Study 
 * Where Are the Fishes?
+* Where Would You Open a Chipotle?
  
 ## Cheatsheet
 
 * Data Transformation with dplyr
 * Data Visualization with ggplot2
 * String Manipulation with stringr
+
+## Used package
+
+* tidyverse
+* lubridate
+* ggplot2
+* ggmap
+* leaflet (Chipotle)
