@@ -27,6 +27,7 @@ Also record the learning process on **DataCamp**
 * Data Science for Social Good/ Crime Study 
 * Where Are the Fishes?
 * Where Would You Open a Chipotle?
+* Gender Bias in Graduate Admissions
  
 ## Cheatsheet
 
