@@ -31,6 +31,7 @@ Also record the learning process on **DataCamp**
 * Reducing Traffic Mortality in the USA
 * Drunken Datetimes in Ames, Iowa
 * Planning Public Policy in Argentina
+* Clustering Bustabit Gambling Behavior
  
 ## Cheatsheet
 
