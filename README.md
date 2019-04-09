@@ -32,6 +32,7 @@ Also record the learning process on **DataCamp**
 * Drunken Datetimes in Ames, Iowa
 * Planning Public Policy in Argentina
 * Clustering Bustabit Gambling Behavior
+* TV, Halftime Shows, and the Big Game
  
 ## Cheatsheet
 
