@@ -33,6 +33,10 @@ Also record the learning process on **DataCamp**
 * Planning Public Policy in Argentina
 * Clustering Bustabit Gambling Behavior
 * TV, Halftime Shows, and the Big Game
+* Health Survey Data Analysis of BMI
+	- Survey data, sampling exercise
+*
+
  
 ## Cheatsheet
 
