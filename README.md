@@ -35,7 +35,8 @@ Also record the learning process on **DataCamp**
 * TV, Halftime Shows, and the Big Game
 * Health Survey Data Analysis of BMI
 	- Survey data, sampling exercise
-*
+* Going Down to South Park/ A Text Analysis
+	- tidytext, prop.test
 
  
 ## Cheatsheet
