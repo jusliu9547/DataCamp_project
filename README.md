@@ -1,8 +1,8 @@
 # DataCamp #
 
-Update the project from **DataCamp** everyday!
+**DataCamp** is an online learning platfrom with interactive courses, practices, and projects. Not only R but Python is appied in different projects, and those mini-projects could help hone your coding skill and proficient the machine learning knowledge!
 
-Also record the learning process on **DataCamp**
+Here, I will update the project from **DataCamp** everyday until finishing all projects! 
 
 ## R project #
 
@@ -37,6 +37,8 @@ Also record the learning process on **DataCamp**
 	- Survey data, sampling exercise
 * Going Down to South Park/ A Text Analysis
 	- tidytext, prop.test
+* Trends in Maryland Crime Rates
+	- GLMM(lmer)
 
  
 ## Cheatsheet
