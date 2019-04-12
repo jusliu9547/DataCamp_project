@@ -25,17 +25,25 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 * Degrees That Pay You Back
 	- Kmeans clustering with three different criterions (Elbow Method, Silhouette Method, Gap Statistic Method)
 * Dr. Semmelweis and the Discovery of Handwashing
+	- T-test, visualization
 * Draw flowers using mathematics
+	- Data visualization with Mathematics
 * Drunken Datetimes in Ames, Iowa
+	- Data visualization with ggridges
 * Explore 538's Halloween Candy Rankings
+	- Correlation(corrplot), GLM model
 * Exploring the Kaggle Data Science Survey
+	- Text data wrangling and visualization
 * Functions for Food Price Forecasts
+	- Writing function task with time-series data
 * Gender Bias in Graduate Admissions
+	- Simpson's paradox example with GLM model
 * Going Down to South Park/ A Text Analysis
 	- tidytext, prop.test
 * Health Survey Data Analysis of BMI
 	- Survey data, sampling exercise
 * Level Difficulty in Candy Crush Saga
+	- Data wrangling and visualization
 * Partnering to Protect You from Peril
 	- Network analysis(igaph)
 * Planning Public Policy in Argentina
@@ -53,15 +61,6 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 * Who Is Drunk and When in Ames, Iowa?
 * Wrangling and Visualizing Musical Data
 
-
-
-
-
-
-
-
-
- 
 ## Cheatsheet
 
 * Data Transformation with dplyr
