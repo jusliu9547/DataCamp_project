@@ -6,7 +6,7 @@ In general, those projects need basic data wrangling and data visualization skil
 
 Here, I will update the project from **DataCamp** everyday until finishing all projects! 
 
-## R project #
+## R project ##
 
 * A Text Analysis of Trump's Tweets
 	- Text mining project, working with tidytext
@@ -61,12 +61,18 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 * Who Is Drunk and When in Ames, Iowa?
 * Wrangling and Visualizing Musical Data
 
-## Cheatsheet
+## Python project ##
+
+* Exploring 67 years of LEGO
+	- Simple warn-up project
+
+## Cheatsheet ##
 
 * Data Transformation with dplyr
 * Data Visualization with ggplot2
 * String Manipulation with stringr
 * [Natural Language Process with spaCy](https://www.datacamp.com/community/blog/spacy-cheatsheet)
+* Pandas: Dataframe manipulation in Python
 
 ## Used package
 
