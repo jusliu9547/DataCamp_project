@@ -65,6 +65,8 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 
 * Exploring 67 years of LEGO
 	- Simple warn-up project
+* Dr. Semmelweis and the Discovery of Handwashing
+	- bootstrap sampling exercise with basic plotting skill
 
 ## Cheatsheet ##
 
