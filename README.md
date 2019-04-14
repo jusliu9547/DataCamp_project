@@ -67,6 +67,8 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 	- Simple warn-up project
 * Dr. Semmelweis and the Discovery of Handwashing
 	- bootstrap sampling exercise with basic plotting skill
+* Exploring the Bitcoin Cryptocurrency Market
+	- Visualization & data cleaning
 
 ## Cheatsheet ##
 
