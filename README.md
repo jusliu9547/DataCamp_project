@@ -63,6 +63,8 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 
 ## Python project ##
 
+* A Network Analysis of Game of Thrones
+	- Network analysis with Python
 * Exploring 67 years of LEGO
 	- Simple warn-up project
 * Dr. Semmelweis and the Discovery of Handwashing
