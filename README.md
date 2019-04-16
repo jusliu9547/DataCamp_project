@@ -71,6 +71,8 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 	- bootstrap sampling exercise with basic plotting skill
 * Exploring the Bitcoin Cryptocurrency Market
 	- Visualization & data cleaning
+* Risk and Returns/ The Sharpe Ratio
+	- Finanicial ratio exercise
 
 ## Cheatsheet ##
 
