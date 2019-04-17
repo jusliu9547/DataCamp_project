@@ -65,12 +65,14 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 
 * A Network Analysis of Game of Thrones
 	- Network analysis with Python
-* Exploring 67 years of LEGO
-	- Simple warn-up project
 * Dr. Semmelweis and the Discovery of Handwashing
 	- bootstrap sampling exercise with basic plotting skill
+* Exploring 67 years of LEGO
+	- Simple warn-up project
 * Exploring the Bitcoin Cryptocurrency Market
 	- Visualization & data cleaning
+* Exploring the evolution of Linux
+	- Mining software repositories project
 * Risk and Returns/ The Sharpe Ratio
 	- Finanicial ratio exercise
 
