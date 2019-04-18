@@ -6,7 +6,7 @@ In general, those projects need basic data wrangling and data visualization skil
 
 Here, I will update the project from **DataCamp** everyday until finishing all projects! 
 
-## R project ##
+## R project (ALL Finished!)##
 
 * A Text Analysis of Trump's Tweets
 	- Text mining project, working with tidytext
@@ -65,6 +65,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 
 * A Network Analysis of Game of Thrones
 	- Network analysis with Python
+* A New Era of Data Analysis in Baseball
 * Dr. Semmelweis and the Discovery of Handwashing
 	- bootstrap sampling exercise with basic plotting skill
 * Exploring 67 years of LEGO
