@@ -6,7 +6,7 @@ In general, those projects need basic data wrangling and data visualization skil
 
 Here, I will update the project from **DataCamp** everyday until finishing all projects! 
 
-## R project (ALL Finished!)##
+## R project (ALL Finished!) ##
 
 * A Text Analysis of Trump's Tweets
 	- Text mining project, working with tidytext
@@ -76,6 +76,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 	- Mining software repositories project
 * Risk and Returns/ The Sharpe Ratio
 	- Finanicial ratio exercise
+* The Hottest Topics in Machine Learning
 
 ## Cheatsheet ##
 
