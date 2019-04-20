@@ -77,6 +77,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 * Risk and Returns/ The Sharpe Ratio
 	- Finanicial ratio exercise
 * The Hottest Topics in Machine Learning
+* Word Frequency in Moby Dick
 
 ## Cheatsheet ##
 
