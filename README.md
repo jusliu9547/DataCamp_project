@@ -75,6 +75,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 * Exploring the evolution of Linux
 	- Mining software repositories project
 * Naïve Bees/ Image Loading and Processing
+* Name Game/ Gender Prediction using Sound
 * Risk and Returns/ The Sharpe Ratio
 	- Finanicial ratio exercise
 * The Hottest Topics in Machine Learning
