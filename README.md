@@ -74,6 +74,8 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 	- Visualization & data cleaning
 * Exploring the evolution of Linux
 	- Mining software repositories project
+* Generating Keywords for Google Ads
+* Mobile Games A/B Testing with Cookie Cats
 * Naïve Bees/ Image Loading and Processing
 * Name Game/ Gender Prediction using Sound
 * Risk and Returns/ The Sharpe Ratio
