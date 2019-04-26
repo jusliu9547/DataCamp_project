@@ -67,6 +67,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 * A Network Analysis of Game of Thrones
 	- Network analysis with Python
 * A New Era of Data Analysis in Baseball
+* Classify Song Genres from Audio Data
 * Dr. Semmelweis and the Discovery of Handwashing
 	- bootstrap sampling exercise with basic plotting skill
 * Exploring 67 years of LEGO
