@@ -56,6 +56,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 	- GLMM(lmer)
 * TV, Halftime Shows, and the Big Game
 * Visualizing Inequalities in Life Expectancy
+* What Makes a Pokémon Legendary?
 * What Your Heart Rate Is Telling You
 * Where Are the Fishes?
 * Where Would You Open a Chipotle?
