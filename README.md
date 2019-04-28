@@ -81,6 +81,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 * Generating Keywords for Google Ads
 * Mobile Games A/B Testing with Cookie Cats
 * Naïve Bees/ Image Loading and Processing
+* Naïve Bees/ Predict Species from Images
 * Name Game/ Gender Prediction using Sound
 * Recreating John Snow's Ghost Map
 * Risk and Returns/ The Sharpe Ratio
