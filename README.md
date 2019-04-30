@@ -86,6 +86,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 * Recreating John Snow's Ghost Map
 * Risk and Returns/ The Sharpe Ratio
 	- Finanicial ratio exercise
+* The GitHub History of the Scala Language
 * The Hottest Topics in Machine Learning
 * Who Is Drunk and When in Ames, Iowa?
 * Word Frequency in Moby Dick
