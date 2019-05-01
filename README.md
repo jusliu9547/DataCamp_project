@@ -68,6 +68,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 * A Network Analysis of Game of Thrones
 	- Network analysis with Python
 * A New Era of Data Analysis in Baseball
+* A Visual History of Nobel Prize Winners
 * Bad passwords and the NIST guidelines
 * Classify Song Genres from Audio Data
 * Dr. Semmelweis and the Discovery of Handwashing
