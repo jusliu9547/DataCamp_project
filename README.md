@@ -71,6 +71,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 * A Visual History of Nobel Prize Winners
 * Bad passwords and the NIST guidelines
 * Classify Song Genres from Audio Data
+* Do Left-handed People Really Die Young?
 * Dr. Semmelweis and the Discovery of Handwashing
 	- bootstrap sampling exercise with basic plotting skill
 * Exploring 67 years of LEGO
