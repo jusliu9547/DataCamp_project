@@ -94,6 +94,9 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 * Who Is Drunk and When in Ames, Iowa?
 * Word Frequency in Moby Dick
 
+## SQL project ##
+* Introduction to DataCamp Projects
+
 ## Cheatsheet ##
 
 * Data Transformation with dplyr
