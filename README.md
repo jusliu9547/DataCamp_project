@@ -86,6 +86,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 * Naïve Bees/ Predict Species from Images
 * Name Game/ Gender Prediction using Sound
 * Recreating John Snow's Ghost Map
+* Reducing Traffic Mortality in the USA
 * Risk and Returns/ The Sharpe Ratio
 	- Finanicial ratio exercise
 * The GitHub History of the Scala Language
