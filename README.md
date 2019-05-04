@@ -102,14 +102,10 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 
 * Data Transformation with dplyr
 * Data Visualization with ggplot2
+* LATEX math notation
+* Date and Time with lubridate
+* Data Wrangling with pandas
+* R Markdown
+* Shiny
 * String Manipulation with stringr
-* [Natural Language Process with spaCy](https://www.datacamp.com/community/blog/spacy-cheatsheet)
-* Pandas: Dataframe manipulation in Python
 
-## Used package
-
-* tidyverse
-* lubridate
-* ggplot2
-* ggmap
-* leaflet (Chipotle)
