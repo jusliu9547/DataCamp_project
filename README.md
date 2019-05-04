@@ -69,6 +69,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 	- Network analysis with Python
 * A New Era of Data Analysis in Baseball
 * A Visual History of Nobel Prize Winners
+* ASL Recognition with Deep Learning
 * Bad passwords and the NIST guidelines
 * Classify Song Genres from Audio Data
 * Do Left-handed People Really Die Young?
