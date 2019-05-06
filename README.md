@@ -93,6 +93,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 	- Finanicial ratio exercise
 * The GitHub History of the Scala Language
 * The Hottest Topics in Machine Learning
+* TV, Halftime Shows, and the Big Game
 * Who Is Drunk and When in Ames, Iowa?
 * Word Frequency in Moby Dick
 
