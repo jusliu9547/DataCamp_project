@@ -100,6 +100,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 
 ## SQL project ##
 * Introduction to DataCamp Projects
+* TV, Halftime Shows, and the Big Game
 
 ## Cheatsheet ##
 
