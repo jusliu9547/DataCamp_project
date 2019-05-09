@@ -95,6 +95,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 * The GitHub History of the Scala Language
 * The Hottest Topics in Machine Learning
 * TV, Halftime Shows, and the Big Game
+* Which Debts Are Worth the Bank's Effort?
 * Who Is Drunk and When in Ames, Iowa?
 * Word Frequency in Moby Dick
 
