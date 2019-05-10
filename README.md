@@ -92,6 +92,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 * Reducing Traffic Mortality in the USA
 * Risk and Returns/ The Sharpe Ratio
 	- Finanicial ratio exercise
+* The Android App Market on Google Play
 * The GitHub History of the Scala Language
 * The Hottest Topics in Machine Learning
 * TV, Halftime Shows, and the Big Game
