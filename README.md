@@ -81,6 +81,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 	- Visualization & data cleaning
 * Exploring the evolution of Linux
 	- Mining software repositories project
+* Find Movie Similarity from Plot Summaries
 * Generating Keywords for Google Ads
 * Give Life/ Predict Blood Donations
 * Mobile Games A/B Testing with Cookie Cats
