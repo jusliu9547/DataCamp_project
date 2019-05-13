@@ -72,6 +72,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 * ASL Recognition with Deep Learning
 * Bad passwords and the NIST guidelines
 * Classify Song Genres from Audio Data
+* Comparing Cosmetics by Ingredients
 * Do Left-handed People Really Die Young?
 * Dr. Semmelweis and the Discovery of Handwashing
 	- bootstrap sampling exercise with basic plotting skill
