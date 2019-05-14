@@ -71,6 +71,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 * A Visual History of Nobel Prize Winners
 * ASL Recognition with Deep Learning
 * Bad passwords and the NIST guidelines
+* Book Recommendations from Charles Darwin
 * Classify Song Genres from Audio Data
 * Comparing Cosmetics by Ingredients
 * Do Left-handed People Really Die Young?
