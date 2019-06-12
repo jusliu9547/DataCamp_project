@@ -4,7 +4,7 @@
 
 In general, those projects need basic data wrangling and data visualization skill in tidyverse way (recommended), and the corresponding cheat sheets also be provided in [here](https://github.com/jusliu9547/DataCamp/tree/master/Cheatsheet). I consider that it's fairly hard to remember all the functions in different packages, so the cheat sheets come in handy for us to check out the frequently used functions and arguments!
 
-Here, I will update the project from **DataCamp** everyday until finishing all projects! 
+Here, I will update the project from **DataCamp** everyday until finishing all projects! Leave a star if you feel helpful!
 
 p.s. I have finished all projects posted before 2019/05/15
 
