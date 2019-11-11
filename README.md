@@ -35,6 +35,7 @@ p.s. I have finished all projects posted before 2019/05/15
 * Reducing Traffic Mortality in the USA
 * Rise and Fall of Programming Languages
 * Scout Your Athletics Fantasy Team
+* Text Mining America's Toughest Game Show
 * Trends in Maryland Crime Rates (GLMM)
 * TV, Halftime Shows, and the Big Game
 * Visualizing Inequalities in Life Expectancy
