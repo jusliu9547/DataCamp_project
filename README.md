@@ -56,6 +56,7 @@ p.s. I have finished all projects posted before 2019/05/15
 * Book Recommendations from Charles Darwin
 * Classify Song Genres from Audio Data
 * Comparing Cosmetics by Ingredients
+* Disney Movies and Box Office Success
 * Do Left-handed People Really Die Young?
 * Dr. Semmelweis and the Discovery of Handwashing
 * Exploring 67 years of LEGO
