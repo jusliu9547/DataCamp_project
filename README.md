@@ -71,6 +71,7 @@ p.s. I have finished all projects posted before 2019/05/15
 * Naïve Bees/ Predict Species from Images
 * Name Game/ Gender Prediction using Sound
 * Predict Stock Trends from News Headlines
+* Predicting Credit Card Approvals
 * Recreating John Snow's Ghost Map
 * Reducing Traffic Mortality in the USA
 * Risk and Returns/ The Sharpe Ratio
