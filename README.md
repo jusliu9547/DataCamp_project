@@ -85,7 +85,9 @@ p.s. I have finished all projects posted before 2019/05/15
 * Word Frequency in Moby Dick
 
 ## SQL project ##
-* Introduction to DataCamp Projects
+
+* Analyze International Debt Statistics
+* Introduction to DataCamp Projects 
 * TV, Halftime Shows, and the Big Game
 
 ## Cheatsheet ##
