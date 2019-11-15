@@ -51,6 +51,7 @@ p.s. I have finished all projects posted before 2019/05/15
 * A Network Analysis of Game of Thrones
 * A New Era of Data Analysis in Baseball
 * A Visual History of Nobel Prize Winners
+* Analyze Your Runkeeper Fitness Data
 * ASL Recognition with Deep Learning
 * Bad passwords and the NIST guidelines
 * Book Recommendations from Charles Darwin
