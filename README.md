@@ -83,6 +83,7 @@ p.s. I have finished all projects posted before 2019/05/15
 * Up and Down With the Kardashians
 * Which Debts Are Worth the Bank's Effort?
 * Who Is Drunk and When in Ames, Iowa?
+* Who's Tweeting? Trump or Trudeau?
 * Word Frequency in Moby Dick
 
 ## SQL project ##
