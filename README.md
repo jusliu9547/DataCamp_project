@@ -22,6 +22,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 * Functions for Food Price Forecasts
 * Gender Bias in Graduate Admissions (Simpson's paradox)
 * Going Down to South Park/ A Text Analysis
+* Importing and Cleaning Data
 * Health Survey Data Analysis of BMI
 * Kidney Stones and Simpson's Paradox
 * Level Difficulty in Candy Crush Saga
