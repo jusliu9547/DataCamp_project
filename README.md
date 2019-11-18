@@ -2,7 +2,7 @@
 
 [**DataCamp**](https://www.datacamp.com) is an online learning platfrom with interactive courses, practices, and projects. Not only R but Python is appied in different projects, and those mini-projects could help you hone your coding skill and the machine learning knowledge! You can also find some useful cheatsheet [here](https://github.com/jusliu9547/DataCamp/tree/master/Cheatsheet) in case of forgetting some functions or arguments
 
-Here, I will update the project from **DataCamp** everyday until finishing all projects! Leave a :star: if you feel helpful! :wink:
+Here, I will update the project from **DataCamp** everyday until finishing all projects! Leave a :star: if helpful! :wink:
 
 ## R project 
 
@@ -26,6 +26,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 * Health Survey Data Analysis of BMI
 * Kidney Stones and Simpson's Paradox
 * Level Difficulty in Candy Crush Saga
+* Modeling the Volatility of US Bond Yields
 * Partnering to Protect You from Peril (Network analysis)
 * Planning Public Policy in Argentina
 * Predict Taxi Fares with Random Forests
