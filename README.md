@@ -34,6 +34,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 * Rise and Fall of Programming Languages
 * Scout Your Athletics Fantasy Team
 * Text Mining America's Toughest Game Show
+* The Impact of Climate Change on Birds
 * Trends in Maryland Crime Rates (GLMM)
 * TV, Halftime Shows, and the Big Game
 * Visualizing Inequalities in Life Expectancy
