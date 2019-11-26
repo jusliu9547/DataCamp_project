@@ -6,7 +6,7 @@ Here, I will update the project from **DataCamp** everyday until finishing all p
 
 ## R project 
 |Project Name|Description |Used Packages
-|------:|:-----|---------|:------:|
+|:------|:-----|:---------|
 |`A Text Analysis of Trump's Tweets`|Apply text mining to Donald Trump's tweets to confirm if he writes the (angrier) Android half|
 
 * A Text Analysis of Trump's Tweets
