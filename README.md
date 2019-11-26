@@ -1,10 +1,13 @@
-# DataCamp #
+# DataCamp 
 
 [**DataCamp**](https://www.datacamp.com) is an online learning platfrom with interactive courses, practices, and projects. Not only R but Python is appied in different projects, and those mini-projects could help you hone your coding skill and the machine learning knowledge! You can also find some useful cheatsheet [here](https://github.com/jusliu9547/DataCamp/tree/master/Cheatsheet) in case of forgetting some functions or arguments
 
 Here, I will update the project from **DataCamp** everyday until finishing all projects! Leave a :star: if helpful! :wink:
 
 ## R project 
+|Project Name|Description |Used Packages
+|------:|:-----|---------|:------:|
+|`A Text Analysis of Trump's Tweets`|Apply text mining to Donald Trump's tweets to confirm if he writes the (angrier) Android half|
 
 * A Text Analysis of Trump's Tweets
 * A Visual History of Nobel Prize Winners
