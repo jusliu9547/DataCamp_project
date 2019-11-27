@@ -12,6 +12,7 @@ Leave a :star: if helpful! :wink:
 |`A Visual History of Nobel Prize Winners`|Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?|
 |`Are You Ready for the Zombie Apocalypse?`| Use your logistic regression skills to protect people from becoming zombies!|
 |`Bad passwords and the NIST guidelines`|Check what passwords fail to conform to the National Institute of Standards and Technology password guidelines.|
+|`Classify Suspected Infection in Patients`|Classify patients with suspected infections using data.table and electronic health records.|`data.table`|
 |`Clustering Bustabit Gambling Behavior`|Use cluster analysis to glean insights into cryptocurrency gambling behavior.|
 |`Clustering Heart Disease Patient Data`|Experiment with clustering algorithms to help doctors inform treatment for heart disease patients.|
 |`Data Science for Social Good/ Crime Study`|Use data science to catch criminals, plus find new ways to volunteer personal time for social good.| `ggmap`|
@@ -76,6 +77,7 @@ Leave a :star: if helpful! :wink:
 |`Name Game: Gender Prediction using Sound`|Analyze the gender distribution of children's book writers and use sound to match names to gender.|
 |`Predict Stock Trends from News Headlines`|Scrape news headlines for FB and TSLA then apply sentiment analysis to generate investment insight.|`BeautifulSoup`|
 |`Predicting Credit Card Approvals`|Build a machine learning model to predict if a credit card application will get approved.|
+|`Real-time Insights from Social Media Data`|Learn to analyze Twitter data and do a deep dive into a hot trend.|
 |`Recreating John Snow's Ghost Map`|Recreate John Snow's famous map of the 1854 cholera outbreak in London.|
 |`Reducing Traffic Mortality in the USA`|How can we find a good strategy for reducing traffic-related deaths?|`Seaborn`|
 |`Risk and Returns: The Sharpe Ratio`|Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio.|
